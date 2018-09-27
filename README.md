@@ -5,4 +5,4 @@ A very simple `Swift` app that allows you to tap on an `UITableViewCell` and pre
 
 ### DEMO ###
 
-![](https://im2.ezgif.com/tmp/ezgif-2-2e7c01f1d9.gif) 
+<a href="https://im2.ezgif.com/tmp/ezgif-2-2e7c01f1d9.gif">Click here</a> to see a short demo
