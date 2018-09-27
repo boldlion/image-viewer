@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ImageViewer
 //
-//  Created by D on 26.09.18.
+//  Created by Bold Lion on 26.09.18.
 //  Copyright © 2018 Bold Lion. All rights reserved.
 //
 
